@@ -13,8 +13,10 @@
     1. pkg update && pkg upgrade
     2. pkg install python
     3. pkg install python2
-    3. pkg install python3
-    4. pkg install git
-    5. git clone https://github.com/RendiMods/TolsRenV3
-    6. cd TolsRenV3
-    7. bash TolsRenV3
+    4. pkg install python3
+    5. pkg install bash
+    6. pkg install git
+    7. git clone https://github.com/RendiMods/TolsRenV3
+    8. cd TolsRenV3
+    9. ls
+    10. bash toolsRenV3.sh 
