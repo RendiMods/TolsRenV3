@@ -11,12 +11,8 @@
     -= Termux =-
 
     1. pkg update && pkg upgrade
-    2. pkg install python
-    3. pkg install python2
-    4. pkg install python3
-    5. pkg install bash
-    6. pkg install git
-    7. git clone https://github.com/RendiMods/TolsRenV3
-    8. cd TolsRenV3
-    9. ls
-    10. bash toolsRenV3.sh 
+    2. pkg install bash
+    3. pkg install git
+    4. git clone https://github.com/RendiMods/TolsRenV3
+    5. cd TolsRenV3
+    6. bash toolsRenV3.sh 
