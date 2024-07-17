@@ -15,7 +15,6 @@
     3. pkg install python2
     3. pkg install python3
     4. pkg install git
-    5. git clone https://github.com/MrSanZz/C2
-    6. cd C2
-    7. pip3 install -r requirements.txt
-    8. python3 c2.py
+    5. git clone https://github.com/RendiMods/TolsRenV3
+    6. cd TolsRenV3
+    7. bash TolsRenV3
