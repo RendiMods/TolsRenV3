@@ -1,8 +1,7 @@
 # Install Steps
 <details open>
     <summary><strong>How To Install:</strong></summary>
-
-    -= Termux =-
+    
     1. pkg update && pkg upgrade
     2. pkg install bash
     3. pkg install git
